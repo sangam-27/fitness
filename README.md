@@ -35,5 +35,4 @@ To use this Fitness Landing Page, follow these steps:
 - Run `npm start` to start the development server.
 - Open your browser and navigate to `http://localhost:3000` to access the app.
 
-# Credits
-A Fitness Landing page was inspired and designed by [Filllo Design Agency](https://dribbble.com/shots/20765972-Fitness-Landing-Page?utm_source=Clipboard_Shot&utm_campaign=filllo&utm_content=Fitness%20Landing%20Page&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=filllo&utm_content=Fitness%20Landing%20Page&utm_medium=Social_Share) They really did amazing design jobs.
+
